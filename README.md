@@ -46,8 +46,4 @@ If you have suggestions or improvements to the course content, please feel free 
 
 ## License
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)  This course is
-licensed under a [Creative Commons Attribution 4.0 International
-License](https://creativecommons.org/licenses/by/4.0/).
-
-Happy learning, and enjoy your Python journey!
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">Python-Basics</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://qa.linkedin.com/in/saad-laouadi">Dr Saad Laouadi</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
