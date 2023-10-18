@@ -1,0 +1,29 @@
+# Check if Python is installed
+$pythonCheck = python --version 2>$null
+if ($pythonCheck -eq $null) {
+    Write-Host "Python is not installed."
+} else {
+    Write-Host "Python is already installed."
+}
+
+# Check if Chocolatey (choco) is installed
+$chocoCheck = choco --version 2>$null
+if ($chocoCheck -eq $null) {
+    Write-Host "Chocolatey (choco) is not installed. Installing Chocolatey..."
+    
+    # Install Chocolatey
+    $chocoInstallScript = (New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1')
+    Set-ExecutionPolicy Bypass -Scope Process -Force
+    [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12
+    Invoke-Expression $chocoInstallScript
+} else {
+    Write-Host "Chocolatey (choco) is already installed."
+}
+
+# Use Chocolatey to install Python
+if ($pythonCheck -eq $null) {
+    Write-Host "Installing Python using Chocolatey..."
+    choco install python -y
+}
+
+Write-Host "All done."
