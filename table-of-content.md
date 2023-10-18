@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python Basics Course
 ====================
 
@@ -73,3 +74,7 @@ Python Basics Course
 - Python Community and Resources
 - Advanced Python Topics
 - Projects and Challenges
+=======
+Table of Content
+================
+>>>>>>> 435e900f2a49fb089164ef22f1ac6a8c20937987
