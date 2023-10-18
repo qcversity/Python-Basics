@@ -42,6 +42,8 @@ If you have suggestions or improvements to the course content, please feel free 
 
 ## License
 
-This course is provided under the [MIT License](LICENSE).
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)  This course is
+licensed under a [Creative Commons Attribution 4.0 International
+License](https://creativecommons.org/licenses/by/4.0/).
 
 Happy learning, and enjoy your Python journey!
