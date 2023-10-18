@@ -1,7 +1,6 @@
 Python Basics Course
 ====================
 
----
 
 # Table of Content
 
