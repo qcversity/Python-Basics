@@ -6,6 +6,10 @@ Welcome to the Python Basics Course repository! This course is designed to provi
 
 Python is one of the most popular programming languages, known for its simplicity and versatility. In this course, you'll learn the fundamentals of Python programming, including syntax, variables, control structures, data structures, functions, and more.
 
+## About the Author 
+My name is Dr. Saad Laouadi and I am the author and maintainer of this repository, I have a Ph.D. in Economics. I am a data scientist and a programmer. My proficiency extends across a spectrum of programming languages, including R, Python, Julia, Rust, C/C++, and more. This expertise converges in the realm of data science, where insights and solutions are crafted from data's intricate patterns.
+
+
 ## Table of Contents
 
 - [Introduction to Python](#Chap-01-introduction-to-python)
